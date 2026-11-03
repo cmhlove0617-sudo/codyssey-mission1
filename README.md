@@ -178,3 +178,9 @@ chmod 644 app/practice.txt
 - [CLI 파일 생성·복사·이름 변경·삭제](logs/cli-practice.txt)
 - [파일과 폴더 권한 변경 전·후·복구](logs/permissions.txt)
 - [Git 설정 확인 — 이름과 이메일 가림](logs/git-config.txt)
+
+## VS Code GitHub 로그인 확인
+
+VS Code 계정 메뉴에서 GitHub 계정 연결을 확인했습니다.
+
+![VS Code GitHub 로그인](screenshots/vscode-github.png)
