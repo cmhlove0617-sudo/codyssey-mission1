@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE          COMMAND   CREATED       STATUS          PORTS     NAMES
+b8866f475631   ubuntu:24.04   "bash"    2 hours ago   Up 42 seconds             ubuntu-practice

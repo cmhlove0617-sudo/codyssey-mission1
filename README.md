@@ -184,3 +184,14 @@ chmod 644 app/practice.txt
 VS Code 계정 메뉴에서 GitHub 계정 연결을 확인했습니다.
 
 ![VS Code GitHub 로그인](screenshots/vscode-github.png)
+
+## attach와 exec 비교
+
+- attach: 컨테이너의 주 실행 프로그램에 연결합니다.
+- exec: 실행 중인 컨테이너에서 별도 명령이나 셸을 실행합니다.
+- bash가 주 프로그램이면 exit 시 컨테이너도 종료됩니다.
+- exec로 추가한 bash에서 exit하면 해당 셸만 종료됩니다.
+- docker attach --detach-keys="ctrl-x" ubuntu-practice로 연결한 뒤 Ctrl+X로 연결만 끊었습니다.
+- 이후 docker ps에서 Up 상태를 확인했습니다.
+
+증거: [attach 연결 해제 후 실행 상태](logs/attach-running.txt)
