@@ -1,0 +1,3 @@
+IMAGE                ID             DISK USAGE   CONTENT SIZE   EXTRA
+hello-world:latest   c567b231f656       25.9kB         9.49kB   U    
+ubuntu:24.04         fe81560990fa        119MB         31.7MB   U    

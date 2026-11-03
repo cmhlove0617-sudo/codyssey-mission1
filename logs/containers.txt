@@ -1,0 +1,5 @@
+CONTAINER ID   IMAGE          COMMAND            CREATED          STATUS                       PORTS     NAMES
+79c47374eeb0   ubuntu:24.04   "sleep infinity"   2 minutes ago    Exited (137) 2 seconds ago             ubuntu-running
+b8866f475631   ubuntu:24.04   "bash"             10 minutes ago   Exited (0) 9 minutes ago               ubuntu-practice
+8bede1adeaef   hello-world    "/hello"           11 minutes ago   Exited (0) 11 minutes ago              serene_goldwasser
+436054665fbb   hello-world    "/hello"           21 hours ago     Exited (0) 21 hours ago                bold_kare

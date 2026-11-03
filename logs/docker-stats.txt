@@ -1,0 +1,2 @@
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+79c47374eeb0   ubuntu-running   0.00%     4.246MiB / 7.605GiB   0.05%     1.17kB / 126B   5.04MB / 4.1kB   1
