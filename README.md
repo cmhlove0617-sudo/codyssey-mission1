@@ -159,3 +159,16 @@ chmod 644 app/practice.txt
 - [웹서버 로그](logs/web-server.txt)
 - [웹 컨테이너 실행 상태](logs/web-containers.txt)
 - [볼륨 데이터 유지](logs/volume-test.txt)
+
+## 웹페이지 실행 화면
+
+### 8080 포트
+![8080 웹페이지](screenshots/web-8080.png)
+
+### 8081 포트
+![8081 웹페이지](screenshots/web-8081.png)
+
+### 바인드 마운트 수정 후
+호스트 파일을 수정하고 새로고침하여 제목 변경을 확인했습니다.
+
+![바인드 마운트 결과](screenshots/bind-after.png)
