@@ -172,3 +172,9 @@ chmod 644 app/practice.txt
 호스트 파일을 수정하고 새로고침하여 제목 변경을 확인했습니다.
 
 ![바인드 마운트 결과](screenshots/bind-after.png)
+
+## 추가 실습 증거
+
+- [CLI 파일 생성·복사·이름 변경·삭제](logs/cli-practice.txt)
+- [파일과 폴더 권한 변경 전·후·복구](logs/permissions.txt)
+- [Git 설정 확인 — 이름과 이메일 가림](logs/git-config.txt)

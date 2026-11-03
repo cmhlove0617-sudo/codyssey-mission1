@@ -1,0 +1,16 @@
+/home/user/codyssey-mossion1
+total 36
+drwxr-xr-x 6 user user 4096 Nov  3 10:13 .
+drwxr-x--- 6 user user 4096 Nov  3 09:51 ..
+drwxr-xr-x 7 user user 4096 Nov  3 11:23 .git
+-rw-r--r-- 1 user user   81 Nov  3 10:13 Dockerfile
+-rw-r--r-- 1 user user 6142 Nov  3 11:22 README.md
+drwxr-xr-x 2 user user 4096 Nov  3 10:42 app
+drwxr-xr-x 2 user user 4096 Nov  3 11:24 logs
+drwxr-xr-x 2 user user 4096 Nov  3 11:20 screenshots
+CLI practice
+total 8
+-rw-r--r-- 1 user user 13 Nov  3 11:24 original.txt
+-rw-r--r-- 1 user user 13 Nov  3 11:24 renamed.txt
+total 4
+-rw-r--r-- 1 user user 13 Nov  3 11:24 original.txt
