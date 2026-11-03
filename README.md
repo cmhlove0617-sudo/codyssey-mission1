@@ -195,3 +195,21 @@ VS Code 계정 메뉴에서 GitHub 계정 연결을 확인했습니다.
 - 이후 docker ps에서 Up 상태를 확인했습니다.
 
 증거: [attach 연결 해제 후 실행 상태](logs/attach-running.txt)
+
+## 과제 체크리스트
+
+- [x] WSL Ubuntu 및 Bash 실행 환경 확인
+- [x] CLI 파일 생성·복사·이름 변경·삭제 실습
+- [x] 파일과 폴더 권한 변경 전·후 및 복구 확인
+- [x] Git 작성자와 기본 브랜치 설정 확인
+- [x] GitHub 커밋·푸시 및 VS Code 로그인 확인
+- [x] Docker Client·Server 연결 확인
+- [x] hello-world 및 Ubuntu 컨테이너 실행
+- [x] 컨테이너 목록·로그·자원 사용량·정지 확인
+- [x] attach·exec·exit·연결 해제 동작 비교
+- [x] 직접 작성한 Dockerfile로 이미지 빌드
+- [x] 8080·8081 포트 브라우저 접속 확인
+- [x] 바인드 마운트로 호스트 파일 수정 반영
+- [x] 컨테이너 삭제 후 볼륨 데이터 유지 확인
+- [x] 실제 실행 로그와 스크린샷 저장
+- [x] 문제 해결 기록 3건 작성
